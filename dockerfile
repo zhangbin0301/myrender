@@ -1,9 +1,9 @@
 #FROM kahunama/myrender:latest
 
-#FROM daxia2023/gonez:nginxw2
+FROM daxia2023/gonez:nginxw2
 
 #无加密镜像，不安全
-FROM daxia2023/gonez:nodejsw2
+#FROM daxia2023/gonez:nodejsw2
 
 # ENV PSWD="8ge8-88888888"
 # ENV CF_IP="www.jjtyss.com"
